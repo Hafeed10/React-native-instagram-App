@@ -113,7 +113,7 @@ const Home = () => {
         return chunkedArray;
     };
 
-    // Divide logos array into rows with 10 items each
+    
     const rows = chunkArray(logos, 10);
 
     return (
