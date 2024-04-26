@@ -92,15 +92,7 @@ const Home = () => {
             time: '5m',
             imger: require('../../../src/asetss/image/silent.png'),
         },
-        {
-            id: 7,
-            name: 'Steype_',
-            image: require('../../../src/asetss/image/shiya.jpeg'),
-            desc: '1h new messages',
-            icon: require('../../../src/asetss/image/camera.png'),
-            time: '5m',
-            imger: require('../../../src/asetss/image/silent.png'),
-        },
+        
         // Add more items as needed
     ];
 
